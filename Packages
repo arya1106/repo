@@ -1,0 +1,168 @@
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_0.0.1_iphoneos-arm.deb
+Size: 27218
+MD5sum: 67172b3712c158c66389fad12b406301
+SHA1: f583271ffc916b01f58bc7391cc6a6e3ae7a5f0b
+SHA256: f9446e0db0ab5e615ef99819ca0c8be45c4053d14c25f910fa9731bedef504e5
+SHA512: 23fe88bf156bac29665d9af1e2e012a79137927b133b398d75f3c017fe455655b70a20e203b816801c7ca57da9496a6be22e8a4eebeb2975170b19de8bd6c5b5
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_0.0.2_iphoneos-arm.deb
+Size: 27456
+MD5sum: e9c4ad7983d03462b3aaf803ccec2ca0
+SHA1: 2591318b3533c09cb5920f1d10c7682f85ce5125
+SHA256: f93a6ca031936934dd3732e6436def5c13af580f5bc7d96c1b210917a3784e24
+SHA512: e4d3b6d6e0d7e56cb0f6aac37042d8e3d2a2c436aad9bc7c6ace0b8078122ce5595db65f9e3edcebaa4c213c33e1d01fc1b6a2c9d53261475884ffe18a2ef6d6
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1028
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_1.0.0_iphoneos-arm.deb
+Size: 702348
+MD5sum: 7d6608ad19cdfd8e28cb38802e455650
+SHA1: 298a6c6348a8d818ac18d1cb5677a4be48491c01
+SHA256: 01dc31f7edc2dbcf57d48b18de706a98b4c19b76b49a27c1ea109363e8363957
+SHA512: 7edca48b61bd32ee701ff51a7bfa9ab6276430ffb9952ba2dc7fddd87a27dd50568592866eed95c57144b47753f98a82816e90e582ff515867dc464c8fef0121
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1028
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_1.0.1_iphoneos-arm.deb
+Size: 702628
+MD5sum: 214bd55864dfe6bf0672b3f80680955d
+SHA1: 3ade1cbcde2d98f07af7c89e16c6f6da56a05d31
+SHA256: 548dec6a65bbbe5f4efeead5a1cd8586ed1e28a6e3e3648966e682e6fe2b8da8
+SHA512: c749024148c696461da5357725b5e897dc037058016813da9f0baae778f61ff529d7db8cbbac1af6fe169365ac8284b5f214fe000cefdb64d980f5ebb122d73c
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1028
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_1.0.2_iphoneos-arm.deb
+Size: 702778
+MD5sum: 18ff75be7a643789b99d737940dbf45c
+SHA1: 332c57510993bf422b8ff294b9a35bc71407899e
+SHA256: 22077bcc9fd59a45d3399fd6ae1d234d9d294be2d5bf91adffd6b750380b2bff
+SHA512: 66d44dde03f5fdb9ab7903e77c5cc36af5b97f7f012b7686d49c563762e80c298451213ba4eacc8efb53757a78311f86b6fcbdfa0d0a496ffae7827a2c12e8e3
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1132
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_1.1.0_iphoneos-arm.deb
+Size: 709832
+MD5sum: c1d6c96d8f9e66f9dbabec1ceb867f5b
+SHA1: c87fde7476f63e44c690dc2264afe542749ee82f
+SHA256: c6779bc9278a9aa7c8186e1863dcaa14d8cab3fd845ddabc7d60fe0ef550a812
+SHA512: d5b31d0cb08a2993dc8e49173e5c88fa79f53dd715d8c462fe938844989d58f7ea42783f3d50090e6d08d7e5452724cf44944ea63499cdd26b564296c6c361cf
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1132
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_1.1.1_iphoneos-arm.deb
+Size: 709894
+MD5sum: 47cdef8885da801e1cb4f07e0562ee7f
+SHA1: 95235c0ee3c4b692711df254539327a3ea5dfa20
+SHA256: 6c3811b3f94f620f9906d3e528b215605ab87acac422ead2007e8dab0fad5561
+SHA512: 960433f3fbd9a5f762f4ed40bc4cac840c2be94fdcbca9ee7ac255d229000be8699adf2a50a70582ebea55971906f468fd7ab0479ac34bae8d0d6f96a338487d
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1132
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_1.1.2_iphoneos-arm.deb
+Size: 709904
+MD5sum: 42746b21f19706409e901aafedbca482
+SHA1: af62ff9711915997ff3b62080c6f8b9e03d3263b
+SHA256: f56898240b514fb7192febb3d91d727cd369e53e8083f8740394dd3c0f9d01d9
+SHA512: a5cd183bd2536d3bec6c0b2314b083cbdfab4ad05b57822a2fd2b5c2396bdba15b55bbdda9c755457b3f5ffd3063d51eb16fbf7eb0529fe83e8a0ab26b90d020
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+

@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://raw.githubusercontent.com/arya1106/repo/master/assets/nappytime14/banner.png",
+        "title": "NappyTime14",
+        "package": "com.arya06.nappytime14",
+        "hideShadow": true
+    }
+  ]
+}

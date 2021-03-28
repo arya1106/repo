@@ -1,0 +1,45 @@
+<package>
+	<id>com.arya06.nappytime14</id>
+	<name>NappyTime14</name>
+	<version>1.1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Countdowns for your alarms!</shortDescription>
+	<descriptionlist>
+		<description>NappyTime14 shows countdowns for your alarms in the stock Clock app. NappyTime14 also shows a countdown to your next alarm on your lock screen, double tap to toggle it.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>clockShort.png</image>
+			<description></description>
+			<image>clockMedium.jpg</image>
+			<description></description>
+			<image>clockLong.png</image>
+			<description></description>
+			<image>LSShort.png</image>
+			<description></description>
+			<image>LSMedium.png</image>
+			<description></description>
+			<image>LSLong.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Optimized LS countdown.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
