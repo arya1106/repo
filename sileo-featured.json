@@ -8,6 +8,12 @@
         "title": "NappyTime14",
         "package": "com.arya06.nappytime14",
         "hideShadow": true
-    }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/arya1106/repo/main/assets/snoozepp/header.png",
+      "title": "Snooze++",
+      "package": "com.arya06.snooze++",
+      "hideShadow": true
+  }
   ]
 }
