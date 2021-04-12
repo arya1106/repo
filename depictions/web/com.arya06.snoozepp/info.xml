@@ -1,0 +1,42 @@
+<package>
+	<id>com.arya06.snooze++</id>
+	<name>Snooze++</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Custom snooze times for you alarms, right in the clock app.</shortDescription>
+	<descriptionlist>
+		<description>Custom snooze times for you alarms, right in the clock app.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>EditView.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>SnoozeView.png</image>
+		</screenshot>
+		<screenshot>	
+			<description></description>
+			<image>LS.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

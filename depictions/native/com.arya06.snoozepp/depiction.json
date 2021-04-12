@@ -1,0 +1,86 @@
+{
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "title": "Snooze++",
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": " ",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://i.imgur.com/FPhDXoA.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://i.imgur.com/4IeE5a3.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://i.imgur.com/fQlRVcy.jpg"
+                        }
+                    ]
+                },
+                {
+                    "markdown": "Custom snooze times for you alarms, right in the clock app.",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0.0",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "04-12-2021",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "arya06",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#0657bb",
+    "headerImage": "https://raw.githubusercontent.com/arya1106/repo/main/assets/snozoe++/header.png",
+    "class": "DepictionTabView"
+}
