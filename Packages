@@ -166,3 +166,23 @@ Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytim
 SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
 Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
 
+Package: com.arya06.snooze++
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debians/com.arya06.snooze++_1.0.0_iphoneos-arm.deb
+Size: 20302
+MD5sum: 2606703dfcd65657859f13f51d3fbd19
+SHA1: 96e8cb8d80cc71bf42887b2d9c9f046e385bc6a8
+SHA256: d378c211adb947daa5b52273775d4f68983f66d3bf20ea4aa5ef26fa16113206
+SHA512: d9cc92d05e252740c266c905d8f158fc010c8a798bbe9d20bab4b1fc2ac5935afd7fbff47433ea97c31d42dcaaedb80749757369d359cf35df7b4a4d04e1c703
+Description: Custom snooze times for your alarms, right in the clock app.
+Name: snooze++
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.snoozepp
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.snoozepp/depiction.json
+Icon: https://raw.githubusercontent.com/arya1106/repo/main/assets/snoozepp/icon.png
+
