@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Set Snooze Button Hotfix</change>
 		<version>1.0.0</version>
 		<change>Initial Release</change>
 	</changes>
